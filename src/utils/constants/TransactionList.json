@@ -1,0 +1,4699 @@
+[
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fdea990d518d76d04",
+    "timestamp": "2023-09-30T06:51:47",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f7e591d3e67db5562",
+    "timestamp": "2023-01-28T05:26:17",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f6cc4f9ca2bf83e78",
+    "timestamp": "2023-05-08T08:30:10",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f702935ff7d8d020d",
+    "timestamp": "2023-08-30T06:38:34",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fbc9578fb6e5eaf26",
+    "timestamp": "2023-07-09T09:21:58",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fb04a0035edf79e6a",
+    "timestamp": "2023-08-13T04:31:12",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f8c775749235d3239",
+    "timestamp": "2023-06-08T03:17:15",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f60944338e8c87044",
+    "timestamp": "2023-05-25T04:54:17",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5ff8bd2879c805db0e",
+    "timestamp": "2023-10-17T09:18:24",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fc1926a91f62c0e67",
+    "timestamp": "2023-01-19T05:43:04",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f17a52c32bdc6fd5b",
+    "timestamp": "2023-04-11T05:45:15",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fadc42d5591a8f001",
+    "timestamp": "2023-04-20T04:29:32",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f998266597b8acbb5",
+    "timestamp": "2023-10-14T01:12:47",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f081d1eaa5159d48e",
+    "timestamp": "2023-04-19T07:19:18",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f0e542fb1db50978f",
+    "timestamp": "2023-04-06T07:17:13",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f7c9f6a861168ae7a",
+    "timestamp": "2023-07-02T01:12:18",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f5b57449864996f3f",
+    "timestamp": "2023-04-23T09:17:21",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f58bd7edce62ed149",
+    "timestamp": "2023-05-06T03:25:40",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f04d93e2e7b083ac1",
+    "timestamp": "2023-05-18T09:38:23",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f13eac5ce874d6abb",
+    "timestamp": "2023-06-22T05:51:31",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f93dfea6712db5e19",
+    "timestamp": "2023-03-02T03:14:13",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fde891c2ad991b16f",
+    "timestamp": "2023-07-06T02:46:28",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f9274d1509b42c4b2",
+    "timestamp": "2023-02-12T06:02:53",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f772354572cb3064b",
+    "timestamp": "2023-08-02T02:42:36",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f1ecaad8ef63d6eb0",
+    "timestamp": "2023-05-19T06:33:52",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f59bea50798323aa4",
+    "timestamp": "2023-03-09T12:00:58",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f23ca7b6ccee1ec72",
+    "timestamp": "2023-05-15T04:33:53",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fd39f07b1d408a627",
+    "timestamp": "2023-05-23T09:03:28",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f725dc200f09a4d18",
+    "timestamp": "2023-04-14T09:12:50",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f111577e8355cbd32",
+    "timestamp": "2023-02-24T10:00:24",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fe66134382510b1be",
+    "timestamp": "2023-10-19T06:49:08",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fcc90858e9fd9ddb1",
+    "timestamp": "2023-10-20T06:41:58",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fb835ac240cc3fd39",
+    "timestamp": "2023-08-19T09:43:33",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f925baebba0ca3ec9",
+    "timestamp": "2023-09-15T12:07:52",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f15a7126abc29533e",
+    "timestamp": "2023-01-20T11:59:37",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa69e77c602882255",
+    "timestamp": "2023-07-17T07:15:09",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f9783ec8c84197b34",
+    "timestamp": "2023-05-24T03:41:58",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f68d850f1b82a3d00",
+    "timestamp": "2023-05-13T06:22:17",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fee7054fde840416e",
+    "timestamp": "2023-08-20T02:04:47",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fbcd1eaa34f733f15",
+    "timestamp": "2023-01-25T12:22:59",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f01776e7cef6646d4",
+    "timestamp": "2023-10-04T11:37:25",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f0b2cce1b8f0a0488",
+    "timestamp": "2023-03-12T05:15:21",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f422989e46ff6891c",
+    "timestamp": "2023-03-05T01:38:26",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f22e75434a0284f07",
+    "timestamp": "2023-01-28T12:30:45",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f6df496be4574b3b6",
+    "timestamp": "2023-03-17T11:05:47",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f93cffc19c77f46cf",
+    "timestamp": "2023-10-07T02:34:05",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fb9073e32e43e219a",
+    "timestamp": "2023-03-26T07:56:19",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f8d7ecdcea0c79fe1",
+    "timestamp": "2023-07-16T10:52:57",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa4348aa0883b6bbc",
+    "timestamp": "2023-10-19T04:16:51",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f8327afe79abadb52",
+    "timestamp": "2023-04-01T10:29:19",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fbf875e525b111986",
+    "timestamp": "2023-08-12T10:27:18",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f492b75a008caf2e2",
+    "timestamp": "2023-08-02T09:15:20",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f0102c371f6f94b5b",
+    "timestamp": "2023-03-11T12:14:42",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f4dd4b1659ebbd2a1",
+    "timestamp": "2023-09-14T02:12:24",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fad594d4ec99504ec",
+    "timestamp": "2023-05-21T02:02:37",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fc41f8055e3b0741e",
+    "timestamp": "2023-09-21T05:26:02",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f0c3dc2596f2664b7",
+    "timestamp": "2023-01-23T03:44:37",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fe10ea74ba7a8fde6",
+    "timestamp": "2023-10-17T08:55:40",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f92177271179346d0",
+    "timestamp": "2023-06-28T10:15:53",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f032ff039c22c9f93",
+    "timestamp": "2023-07-08T01:28:40",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f5f3d32e422f6a318",
+    "timestamp": "2023-08-16T09:18:06",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fdec40c39bcf5c2e4",
+    "timestamp": "2023-09-09T09:06:05",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f424e188593fba9e6",
+    "timestamp": "2023-10-04T09:24:32",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f13ed4dbf577d61f3",
+    "timestamp": "2023-01-19T12:26:51",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f803378f581914794",
+    "timestamp": "2023-06-19T12:43:42",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f073842be85decb94",
+    "timestamp": "2023-03-27T11:58:26",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fc2e99233f418a00e",
+    "timestamp": "2023-05-23T08:26:48",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f7bb0ea6fc4d79d62",
+    "timestamp": "2023-07-27T06:59:10",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fdcd6317528798395",
+    "timestamp": "2023-02-09T09:53:55",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f286cb17b9770d9e7",
+    "timestamp": "2023-05-23T02:21:25",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fcdb2baf6ec69bde7",
+    "timestamp": "2023-09-24T04:40:33",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f12e5fa5d96739ac5",
+    "timestamp": "2023-10-13T05:53:10",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fedbf2f6aa2959393",
+    "timestamp": "2023-08-31T01:28:42",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f320101f3d63b92f6",
+    "timestamp": "2023-03-30T09:35:00",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f9a90c7775f63a839",
+    "timestamp": "2023-09-28T04:44:31",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f58e945748fdc4a0f",
+    "timestamp": "2023-03-14T10:46:16",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fc5afd973c270ba40",
+    "timestamp": "2023-10-14T11:56:06",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f97bb4a8b4750c03d",
+    "timestamp": "2023-01-23T10:19:48",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fcf1aeac9f7ed90be",
+    "timestamp": "2023-02-11T01:32:50",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f6cd7f6c76b3ca259",
+    "timestamp": "2023-05-04T10:51:51",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fc01b41ef6f8aab2d",
+    "timestamp": "2023-05-02T12:57:00",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5ffc4b218af5968776",
+    "timestamp": "2023-04-14T03:54:12",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f7d5c2cd544d91f1c",
+    "timestamp": "2023-01-13T06:56:14",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f454902c3eab8f9ef",
+    "timestamp": "2023-09-10T07:28:34",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fc3621f4a9b739528",
+    "timestamp": "2023-03-26T10:39:44",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fbb02991c555fbcd4",
+    "timestamp": "2023-08-07T01:15:38",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f74b147d9d2a3214f",
+    "timestamp": "2023-07-26T09:09:34",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fdb0940c928ae311a",
+    "timestamp": "2023-02-12T02:26:33",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fca45ea643b619179",
+    "timestamp": "2023-03-03T10:34:25",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f8ab48e61821e9f65",
+    "timestamp": "2023-09-04T07:42:42",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f000d8fde66436a3f",
+    "timestamp": "2023-06-14T06:07:22",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f3c741cab875ff2e3",
+    "timestamp": "2023-02-05T11:55:25",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fb5a96080fad7a9aa",
+    "timestamp": "2023-05-29T11:00:03",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5ff8c2e61f0ea36854",
+    "timestamp": "2023-09-05T03:34:48",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f64a1f8b07f7f4e23",
+    "timestamp": "2023-01-11T03:57:39",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fdb7d38c5ffd28494",
+    "timestamp": "2023-08-24T04:56:14",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f083511d9f6999450",
+    "timestamp": "2023-09-09T12:51:06",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f0237ffbe380e09e7",
+    "timestamp": "2023-07-23T07:00:05",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f2c2def654c841019",
+    "timestamp": "2023-09-01T10:55:52",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fc0ed01c1bc357b13",
+    "timestamp": "2023-06-28T12:00:26",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f10e538923a04d026",
+    "timestamp": "2023-02-07T05:52:35",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fe24e3594c0dacf68",
+    "timestamp": "2023-03-13T07:50:33",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f9c603ec92ea02b52",
+    "timestamp": "2023-01-06T09:40:53",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5ff6de7a7212ab7ee0",
+    "timestamp": "2023-07-12T12:39:11",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f35e123c682e4bd6e",
+    "timestamp": "2023-08-23T07:45:02",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f5e3e5779cc763911",
+    "timestamp": "2023-03-29T04:33:03",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fe11e5aa44daf50b6",
+    "timestamp": "2023-07-08T07:43:38",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f966346040204d304",
+    "timestamp": "2023-07-09T12:07:42",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f61d6f08141ad01a6",
+    "timestamp": "2023-09-05T02:15:24",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f253ef1941ae970fd",
+    "timestamp": "2023-07-02T02:35:24",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5ffffdf2a54fc9cb9e",
+    "timestamp": "2023-10-05T09:37:59",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f7ef250e407d9d8c0",
+    "timestamp": "2023-10-10T03:23:11",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f76aa30357958f85f",
+    "timestamp": "2023-08-01T08:52:14",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f8f66f8dc4958e539",
+    "timestamp": "2023-06-12T05:47:18",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f54b3cba84e829cc3",
+    "timestamp": "2023-02-26T10:23:39",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fd95d8c10d84b0f30",
+    "timestamp": "2023-03-14T02:39:49",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fc9514c7f2c1e0fff",
+    "timestamp": "2023-05-21T11:48:12",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fe52b607b9823be4d",
+    "timestamp": "2023-08-14T10:23:17",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f725083e8159cb931",
+    "timestamp": "2023-08-05T09:36:02",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f01e14c356a105f83",
+    "timestamp": "2023-05-19T06:02:10",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f640919b0b3d0e800",
+    "timestamp": "2023-02-14T11:41:50",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fc146146c8bef64eb",
+    "timestamp": "2023-08-12T06:26:50",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f55c328415bab16c2",
+    "timestamp": "2023-01-30T04:53:19",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f2fbf1d8345478f69",
+    "timestamp": "2023-07-01T08:49:42",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f58661c8059c7807e",
+    "timestamp": "2023-01-23T05:09:55",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f5a96dd09ad2dd59d",
+    "timestamp": "2023-04-21T03:07:10",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f99564d22a71c79e2",
+    "timestamp": "2023-05-03T06:59:20",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fcd9ace086d93d7c8",
+    "timestamp": "2023-06-30T08:08:51",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f567361ed36881dc8",
+    "timestamp": "2023-01-07T12:31:29",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fb3fdff13ad53068a",
+    "timestamp": "2023-05-13T04:41:40",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f6660c88a477a4d24",
+    "timestamp": "2023-04-03T03:18:04",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f81c57f858a2fe5dc",
+    "timestamp": "2023-06-29T08:52:44",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f481e06398f55b7d5",
+    "timestamp": "2023-07-22T03:25:49",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f4cc30daecbf7c1d9",
+    "timestamp": "2023-04-25T05:16:34",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f55e79e4d1bc8723b",
+    "timestamp": "2023-02-27T11:33:32",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fbedf004bdef2349f",
+    "timestamp": "2023-03-12T08:21:08",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f0655a518a18e44fd",
+    "timestamp": "2023-01-12T12:24:39",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f348ebdfcdc787256",
+    "timestamp": "2023-04-24T03:04:03",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f2f919e1d2ee32305",
+    "timestamp": "2023-02-19T01:05:57",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f6244fd56a9403593",
+    "timestamp": "2023-02-04T09:58:41",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f6186524f4954afa1",
+    "timestamp": "2023-06-11T09:11:34",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f25c6d1216aebd8ac",
+    "timestamp": "2023-09-26T03:08:14",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f9a58b658057b0329",
+    "timestamp": "2023-03-30T02:35:14",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f44fe2772b9bfe5f4",
+    "timestamp": "2023-05-16T04:50:24",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fb7daaaee33cc5859",
+    "timestamp": "2023-07-22T10:01:06",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f540b7ce5748c25bb",
+    "timestamp": "2023-07-11T08:20:11",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f2e057d6481cd1d70",
+    "timestamp": "2023-02-03T03:09:13",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f01a521bc0cd4c9c2",
+    "timestamp": "2023-05-29T11:58:45",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f5949cf9ea251052d",
+    "timestamp": "2023-07-14T01:36:44",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f8003c8f146c28d35",
+    "timestamp": "2023-01-18T04:22:32",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fbd6611c73cee7021",
+    "timestamp": "2023-03-12T12:49:10",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f76ad0edabf72a04d",
+    "timestamp": "2023-04-09T05:49:27",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f27b92e8b316c850f",
+    "timestamp": "2023-06-20T09:51:04",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f9002fc77cf553b38",
+    "timestamp": "2023-02-28T01:50:03",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f101b7f54f29a89b6",
+    "timestamp": "2023-02-05T11:12:02",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f59de3b0f511a46cf",
+    "timestamp": "2023-05-16T08:02:30",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f88d93cff31363130",
+    "timestamp": "2023-03-16T04:16:00",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f575b59611e32dcb5",
+    "timestamp": "2023-06-24T11:35:51",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fb1fc72a2a76bb97b",
+    "timestamp": "2023-02-25T11:13:47",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fd44f83864b9593e0",
+    "timestamp": "2023-06-09T04:56:19",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fca0bc1cf182b5f3b",
+    "timestamp": "2023-06-14T02:53:42",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f2bbc01a6395d7e77",
+    "timestamp": "2023-05-07T09:50:44",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f952d48225b69624d",
+    "timestamp": "2023-08-30T04:44:21",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f39931eee70621685",
+    "timestamp": "2023-10-02T02:38:26",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f090af96a75371fde",
+    "timestamp": "2023-01-17T10:24:39",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fd7dbe949b3dea5fd",
+    "timestamp": "2023-10-18T06:16:44",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fb97dbf7502a80b1d",
+    "timestamp": "2023-05-07T10:22:00",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f5635c30adf47392e",
+    "timestamp": "2023-05-25T11:54:29",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f752b0cc247f4fb69",
+    "timestamp": "2023-10-21T01:15:43",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fe6bf5cd571d7ca83",
+    "timestamp": "2023-04-04T09:25:37",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fabc1324563455212",
+    "timestamp": "2023-01-30T02:04:36",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f857f3d83271cb87d",
+    "timestamp": "2023-08-23T08:31:19",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f174097619849e084",
+    "timestamp": "2023-07-01T06:11:04",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f1f440919ba20cc63",
+    "timestamp": "2023-09-30T11:01:13",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f9a4bb48408ca116b",
+    "timestamp": "2023-04-22T05:14:32",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f0966e4b1c456e9ec",
+    "timestamp": "2023-03-04T11:31:40",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f0928da7d7e673e90",
+    "timestamp": "2023-05-22T01:23:26",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f35e53b8180ced47d",
+    "timestamp": "2023-02-28T03:38:06",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f02b6dbdf3d1ca463",
+    "timestamp": "2023-08-16T10:46:45",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f6bbd0d6bbcfbc8e7",
+    "timestamp": "2023-09-10T09:36:18",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fa729bcd18861b8f3",
+    "timestamp": "2023-07-20T12:03:28",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f30333f9ffb005fe0",
+    "timestamp": "2023-02-25T08:59:15",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fc366eedd96ec69dd",
+    "timestamp": "2023-01-16T05:06:31",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f38bc9c52877f143c",
+    "timestamp": "2023-04-08T11:30:37",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f2d45e87b61e9b0c3",
+    "timestamp": "2023-10-03T08:43:39",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5feaa328743ce9b902",
+    "timestamp": "2023-05-24T09:55:56",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f1efe8d459f02dcf3",
+    "timestamp": "2023-05-10T05:27:05",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f73510d7381bdfa77",
+    "timestamp": "2023-06-24T11:02:18",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f88928fa403d6e803",
+    "timestamp": "2023-05-18T07:44:27",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f91cc710a6a337699",
+    "timestamp": "2023-08-11T02:54:44",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f6ff539de118eb321",
+    "timestamp": "2023-06-15T04:40:16",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f32b52302e45d4ea2",
+    "timestamp": "2023-09-25T02:45:36",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fb20a4f8f178a3d23",
+    "timestamp": "2023-09-18T02:39:26",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f0b7c203f6a5f7756",
+    "timestamp": "2023-06-06T11:03:21",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f02ee5a083e121a02",
+    "timestamp": "2023-07-14T06:30:44",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fe2a20f438f801629",
+    "timestamp": "2023-06-16T06:26:32",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fd63a351e5640962a",
+    "timestamp": "2023-02-01T10:03:19",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f97bd21000843170d",
+    "timestamp": "2023-08-29T03:13:07",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f1f90c40836f0ddc8",
+    "timestamp": "2023-07-19T12:08:45",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa3726977e4f41756",
+    "timestamp": "2023-02-09T03:29:55",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f701901d3e6719df3",
+    "timestamp": "2023-01-07T11:50:16",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f91997d447d116ae7",
+    "timestamp": "2023-08-06T12:54:40",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fe06e613ff952d692",
+    "timestamp": "2023-09-28T11:33:59",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f0084837f07776807",
+    "timestamp": "2023-04-18T02:27:34",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f5aa59b2644088641",
+    "timestamp": "2023-09-04T12:17:36",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f86c1e7c94b274b71",
+    "timestamp": "2023-07-18T11:24:08",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fffcc2bee73a71cbb",
+    "timestamp": "2023-10-10T07:55:23",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f7286f577ce13719b",
+    "timestamp": "2023-06-24T02:37:29",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f171e04f505bab130",
+    "timestamp": "2023-06-13T07:23:06",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa0b0e1acfdcd7bbb",
+    "timestamp": "2023-05-09T01:59:12",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f2d0ca16d044c9561",
+    "timestamp": "2023-07-10T11:18:29",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5ffb66a3ffac40c2b9",
+    "timestamp": "2023-06-10T01:45:40",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa15c47eb37126fb7",
+    "timestamp": "2023-08-06T05:58:37",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fbbac2e16ce1fe725",
+    "timestamp": "2023-01-22T01:50:50",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5ffe2ac11dac35a71b",
+    "timestamp": "2023-04-13T08:02:08",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5ffc6a083715697cbc",
+    "timestamp": "2023-09-25T12:08:54",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5ff7c4bb27e0c0289f",
+    "timestamp": "2023-10-25T11:20:25",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f96a663d8a08f63bd",
+    "timestamp": "2023-10-18T09:13:21",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f4ecc960a0ca30988",
+    "timestamp": "2023-10-02T02:42:39",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f57ff8d3d0976a02e",
+    "timestamp": "2023-10-06T10:59:42",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f05943811a4af7236",
+    "timestamp": "2023-10-13T09:57:12",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fe5426c032030a752",
+    "timestamp": "2023-04-26T11:55:11",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fbd0778419734a610",
+    "timestamp": "2023-10-18T05:12:17",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f4f9d91b8c78b2c6b",
+    "timestamp": "2023-07-14T08:37:02",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f6cae41e3c181a4e1",
+    "timestamp": "2023-02-05T11:22:22",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fdfabe953034a9ae6",
+    "timestamp": "2023-03-25T04:23:48",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5ff97cbed31d78d776",
+    "timestamp": "2023-03-28T11:11:50",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f6edfba68ae7abe43",
+    "timestamp": "2023-09-11T01:56:02",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fe1c8f171f4ad4415",
+    "timestamp": "2023-09-02T06:04:42",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f2f8142b78a7759cd",
+    "timestamp": "2023-08-08T05:09:39",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f63b35efd18718d7e",
+    "timestamp": "2023-07-06T02:03:32",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f439c8312b0ac0612",
+    "timestamp": "2023-09-26T04:53:12",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa925dac9beef55c9",
+    "timestamp": "2023-03-21T01:41:09",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f4819682619efff09",
+    "timestamp": "2023-05-20T12:28:03",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fcbcfb1c3a1154a38",
+    "timestamp": "2023-03-18T10:34:10",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f7bbd51bdaf708bc5",
+    "timestamp": "2023-06-12T01:46:50",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f29e36e82182a860b",
+    "timestamp": "2023-05-16T12:50:41",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f87c74b6bd4c72b9f",
+    "timestamp": "2023-02-12T10:50:48",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fb30c8bf17c8eeb33",
+    "timestamp": "2023-09-17T10:38:08",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f495862820668b874",
+    "timestamp": "2023-03-13T11:09:26",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fd3af5bfd65df3230",
+    "timestamp": "2023-01-11T04:36:23",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f7149bead6b5f4e9b",
+    "timestamp": "2023-06-26T01:33:31",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fe7c95bed98dfcc9d",
+    "timestamp": "2023-03-07T06:47:52",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f1f4b6e11e9895162",
+    "timestamp": "2023-08-25T11:54:39",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f0c7d44f1d90f572b",
+    "timestamp": "2023-03-28T04:01:18",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f8de3405661267608",
+    "timestamp": "2023-02-23T08:47:04",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f9f12772e24985cf8",
+    "timestamp": "2023-05-18T05:10:01",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fb2439dc9aba67180",
+    "timestamp": "2023-01-01T10:00:56",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fd9e621e0691b16fc",
+    "timestamp": "2023-09-29T03:58:56",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f9e5f4fa1b87f855d",
+    "timestamp": "2023-05-14T03:18:57",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f16844c10ec63aafa",
+    "timestamp": "2023-03-16T03:05:09",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f545e672aa3cd2e28",
+    "timestamp": "2023-02-22T10:41:39",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f6f77e7af0c154438",
+    "timestamp": "2023-05-24T06:11:33",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fd2bdc0601b6582d4",
+    "timestamp": "2023-01-13T08:22:37",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f8f2e0788382e11b9",
+    "timestamp": "2023-05-20T11:47:15",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f0cb4efdbdc54ba71",
+    "timestamp": "2023-05-21T10:24:18",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f4118f79f53fc7c30",
+    "timestamp": "2023-05-19T06:47:40",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fe47d797e96629d05",
+    "timestamp": "2023-04-19T08:32:24",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f270704b596284802",
+    "timestamp": "2023-05-17T07:05:00",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fbe0ff94948b144fd",
+    "timestamp": "2023-06-16T12:13:36",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fb4ae172709855a82",
+    "timestamp": "2023-07-20T07:21:32",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fa922bc5cb2fb38ad",
+    "timestamp": "2023-09-24T03:53:28",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f0c2fd71848686381",
+    "timestamp": "2023-08-11T02:41:17",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fb03eb619aca28247",
+    "timestamp": "2023-01-22T12:48:58",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f544a084a43e56759",
+    "timestamp": "2023-03-13T01:26:52",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fb926080ecb966e35",
+    "timestamp": "2023-09-04T06:46:08",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5ff2d23c410d2b5257",
+    "timestamp": "2023-05-23T03:38:24",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f2191ced6428a89fc",
+    "timestamp": "2023-10-05T07:57:35",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f5f608a08a7fcdca8",
+    "timestamp": "2023-05-20T01:04:04",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fe7f0df279dfa229f",
+    "timestamp": "2023-08-30T03:35:46",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f52c35af37c50a7fb",
+    "timestamp": "2023-08-03T10:09:51",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f2696fa6dfdb63e1b",
+    "timestamp": "2023-03-24T11:12:53",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5ff2e7910aa487c704",
+    "timestamp": "2023-08-22T05:12:49",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fd0b2b5d656c5a33b",
+    "timestamp": "2023-04-29T10:55:04",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f648e38ff1260819b",
+    "timestamp": "2023-03-23T07:01:52",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f48d648ef2ae41701",
+    "timestamp": "2023-10-24T05:30:22",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fc091ad48d3c17389",
+    "timestamp": "2023-05-28T03:18:35",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f718df61760c719fb",
+    "timestamp": "2023-03-08T06:26:28",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f08a998c05739b4e6",
+    "timestamp": "2023-08-23T11:00:10",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f2078bcb725860474",
+    "timestamp": "2023-06-03T11:31:34",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fe5354c9c8e26613c",
+    "timestamp": "2023-10-01T04:06:04",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa310d0a644076892",
+    "timestamp": "2023-05-24T08:35:57",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fd2a8132b531ac2e0",
+    "timestamp": "2023-09-24T08:28:44",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f7d5a8ec16fb9b7c3",
+    "timestamp": "2023-01-26T03:47:07",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5ffb79e5ab6b70dd17",
+    "timestamp": "2023-06-28T09:56:02",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f883cb3a1a7b8883d",
+    "timestamp": "2023-01-28T03:43:13",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f00240865bca23291",
+    "timestamp": "2023-09-29T07:13:47",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f29c9e31357ba0ae5",
+    "timestamp": "2023-09-23T07:55:51",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f4c2df144fbe12e93",
+    "timestamp": "2023-08-18T07:44:41",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f1d0eec7a10856dd0",
+    "timestamp": "2023-06-12T02:12:54",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f4432f435ba191669",
+    "timestamp": "2023-02-06T03:01:56",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f40d1dfa9fc5629df",
+    "timestamp": "2023-10-02T05:23:37",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f40126481c5e9ba63",
+    "timestamp": "2023-04-06T02:17:34",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f7169b60f5ea1a557",
+    "timestamp": "2023-06-22T04:41:17",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fbf3d3562f18edfea",
+    "timestamp": "2023-08-13T11:34:14",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5ff03f84be1ebede19",
+    "timestamp": "2023-09-02T08:30:23",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f017921fc1ea056be",
+    "timestamp": "2023-03-03T12:20:32",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f716c2e1dd4eb927a",
+    "timestamp": "2023-08-10T03:39:00",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fdefbf69ceeb2b1c4",
+    "timestamp": "2023-06-06T09:22:49",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f9cdce728d939eef5",
+    "timestamp": "2023-02-23T06:50:16",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5ffc5dc8142b099eca",
+    "timestamp": "2023-09-01T02:31:16",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fd0e3f371266a3978",
+    "timestamp": "2023-09-04T05:07:32",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fb7d58a46597c8407",
+    "timestamp": "2023-09-09T08:58:42",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f691499643a888ef4",
+    "timestamp": "2023-05-16T11:07:58",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fb3ecf9eb9601f1bd",
+    "timestamp": "2023-06-25T08:42:03",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5faa633c47fabc1c0a",
+    "timestamp": "2023-02-06T12:12:47",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fdf65bb520ad68b05",
+    "timestamp": "2023-06-20T12:34:56",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fb9255e85b6c90469",
+    "timestamp": "2023-08-11T04:18:26",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f3eb4a37d2af3ea23",
+    "timestamp": "2023-05-01T11:35:03",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5ff0335e626376dbbf",
+    "timestamp": "2023-08-25T08:14:01",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f4e42e4b07489f63f",
+    "timestamp": "2023-06-23T03:23:19",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fc22b5e9521b0298a",
+    "timestamp": "2023-07-01T02:43:01",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fc6433d054c5edd19",
+    "timestamp": "2023-07-28T07:39:46",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f8e284ea414783f40",
+    "timestamp": "2023-10-08T07:30:08",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fcb9978bfa69b5d9c",
+    "timestamp": "2023-06-01T10:07:00",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f90ffad60be868757",
+    "timestamp": "2023-08-12T06:49:34",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f6d017b7d2b3788f1",
+    "timestamp": "2023-07-19T07:53:45",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f7524de23b6d1e351",
+    "timestamp": "2023-07-19T08:45:13",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa03f685520e7deea",
+    "timestamp": "2023-10-24T12:45:57",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f4a7bc4b190519fd9",
+    "timestamp": "2023-10-06T05:05:47",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fd07583c0947c6127",
+    "timestamp": "2023-02-09T01:01:17",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f7008468548fbb96f",
+    "timestamp": "2023-05-20T11:31:04",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f0c392308eec70823",
+    "timestamp": "2023-08-06T11:16:09",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f9809f61514d69071",
+    "timestamp": "2023-02-26T07:44:23",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f3e62d3fae22847dd",
+    "timestamp": "2023-04-03T02:04:42",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f324f6bf276e6a810",
+    "timestamp": "2023-01-08T02:30:32",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f6b12e6d4273d2a63",
+    "timestamp": "2023-05-06T06:21:10",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f980392646a6b7cae",
+    "timestamp": "2023-08-25T05:11:26",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f5c678a12a2408785",
+    "timestamp": "2023-02-22T11:16:39",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f8522c6602c20fdd8",
+    "timestamp": "2023-09-13T11:57:11",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f72b25c26cc8fc880",
+    "timestamp": "2023-05-12T04:10:46",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f2f53e2500ed456f3",
+    "timestamp": "2023-02-21T12:36:49",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f9b99e9beda67f69b",
+    "timestamp": "2023-05-21T05:29:48",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f0c730f6a21b9c734",
+    "timestamp": "2023-10-21T02:16:43",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fdbe06cdf6d703a77",
+    "timestamp": "2023-05-27T12:52:54",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f8847ff97eaa61978",
+    "timestamp": "2023-06-10T02:33:05",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fff082646bb766343",
+    "timestamp": "2023-10-02T09:55:34",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f305b29aba757ad81",
+    "timestamp": "2023-07-28T11:48:39",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fc149c0329a62d002",
+    "timestamp": "2023-03-02T12:33:15",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5ff3910400bd42bd8b",
+    "timestamp": "2023-02-04T06:05:25",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f68f5fe2f07e33908",
+    "timestamp": "2023-01-28T06:57:16",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fa7ec151c2fc645f2",
+    "timestamp": "2023-06-27T08:49:02",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f77b753380cac4642",
+    "timestamp": "2023-08-28T09:43:46",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f250036658fa24973",
+    "timestamp": "2023-04-15T12:18:28",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fd01b3799ffdd627e",
+    "timestamp": "2023-02-18T12:07:51",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5ffc5382abe3759ba9",
+    "timestamp": "2023-03-04T05:08:47",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f758bfaa11e7ca956",
+    "timestamp": "2023-05-27T05:56:56",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fc6760f2b3c49481c",
+    "timestamp": "2023-05-09T12:30:43",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f9824c1e89675243b",
+    "timestamp": "2023-05-10T12:12:22",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f4d2c06af44e358ec",
+    "timestamp": "2023-08-05T06:13:56",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f01b7b0bbbc32c61f",
+    "timestamp": "2023-05-13T10:38:42",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fe95d692c8aefe479",
+    "timestamp": "2023-04-18T08:41:19",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f8845dbf44ef9962f",
+    "timestamp": "2023-09-09T09:05:06",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f231fc4295593415c",
+    "timestamp": "2023-10-12T07:57:33",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5ff87212c23237c8c9",
+    "timestamp": "2023-08-30T08:36:55",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f0d8fa1b6ff3404b6",
+    "timestamp": "2023-03-21T11:42:26",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f697449dfdcde2925",
+    "timestamp": "2023-10-18T12:42:34",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f9aeace1cf9f71307",
+    "timestamp": "2023-02-16T10:40:07",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f02ba07fe7079e54f",
+    "timestamp": "2023-02-02T02:27:48",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f2e1de42b4d2a3984",
+    "timestamp": "2023-09-16T12:09:30",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f4ab7a12508f333ed",
+    "timestamp": "2023-07-14T02:54:33",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fd7325e213585907a",
+    "timestamp": "2023-03-15T09:40:16",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fc2e22383a7db82fe",
+    "timestamp": "2023-08-13T09:46:44",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fa639332583c0d1fa",
+    "timestamp": "2023-08-22T04:51:59",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fbd5726b429638105",
+    "timestamp": "2023-01-22T08:15:52",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fcceda8b33844803b",
+    "timestamp": "2023-07-23T01:57:58",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fa4d2d0d0a6591ac6",
+    "timestamp": "2023-01-09T02:03:58",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f1e66ee15a9530080",
+    "timestamp": "2023-02-25T11:19:42",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f85b16b669e61e7cc",
+    "timestamp": "2023-02-08T04:36:42",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f398bd8224b5ac481",
+    "timestamp": "2023-07-07T03:49:55",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f73adb27192fe2664",
+    "timestamp": "2023-01-01T10:22:19",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa3ce91a005b39518",
+    "timestamp": "2023-10-10T08:25:21",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f842e9b6608870703",
+    "timestamp": "2023-05-19T08:44:44",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f76e40883dc271f1e",
+    "timestamp": "2023-06-09T03:28:51",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f27df04717f5cb602",
+    "timestamp": "2023-09-21T10:58:57",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f91dfc16feda298cd",
+    "timestamp": "2023-04-11T06:29:41",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f34d53fce9fd3b879",
+    "timestamp": "2023-09-04T12:14:30",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fbb94f7a742c1c8f8",
+    "timestamp": "2023-04-22T09:01:56",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f461f1fb1a824a44f",
+    "timestamp": "2023-04-09T07:45:20",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5ffb41cbffac1931fc",
+    "timestamp": "2023-06-25T04:16:58",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f64320f0a6001c979",
+    "timestamp": "2023-07-18T07:56:30",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fbafa91af0e4f9f31",
+    "timestamp": "2023-05-06T07:00:57",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f65478d71c60194ba",
+    "timestamp": "2023-01-10T06:55:49",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f0e338e5294eef8df",
+    "timestamp": "2023-04-09T12:49:52",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f9856b46954a17e4b",
+    "timestamp": "2023-08-30T08:19:56",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5feb4cdfd9335d6042",
+    "timestamp": "2023-01-25T02:18:18",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f1761f75551162fea",
+    "timestamp": "2023-01-15T04:09:46",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fedf5af87ac7c58c7",
+    "timestamp": "2023-08-04T12:53:17",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5ff5a48d0841b0d07e",
+    "timestamp": "2023-06-07T08:59:13",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fc5009ecd3a75a7db",
+    "timestamp": "2023-08-29T07:39:18",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f97771daecec2ff8a",
+    "timestamp": "2023-08-26T10:37:45",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f3e96843f1491fb59",
+    "timestamp": "2023-05-15T06:45:54",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f52f6296fdc240f65",
+    "timestamp": "2023-02-04T03:18:32",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f0d87160ffbbbdf1f",
+    "timestamp": "2023-01-10T07:16:30",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f5f8f76d1d83100a6",
+    "timestamp": "2023-03-14T09:15:02",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fd810de44052ce8a5",
+    "timestamp": "2023-02-19T09:03:45",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f0c938af8b7fd04dc",
+    "timestamp": "2023-09-08T02:01:43",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fe0dd1773259c3e65",
+    "timestamp": "2023-07-28T11:32:52",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f077940c24fee603a",
+    "timestamp": "2023-09-11T04:57:07",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f3acd58df39e4d03f",
+    "timestamp": "2023-05-07T11:11:23",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f8be3b6a3717789a1",
+    "timestamp": "2023-08-04T05:22:08",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fdf4bd9471a301b7e",
+    "timestamp": "2023-09-04T10:39:33",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f77e5d1462b7b942e",
+    "timestamp": "2023-03-10T01:35:43",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f1187920f53aa8901",
+    "timestamp": "2023-04-26T01:36:29",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fb82069347aa80ee3",
+    "timestamp": "2023-06-10T02:43:57",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f5d858cc0bb582271",
+    "timestamp": "2023-02-12T03:47:17",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f8b5cde93c95dae7e",
+    "timestamp": "2023-03-08T04:29:27",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f3acf34be9489d322",
+    "timestamp": "2023-03-06T04:48:26",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f540a23a1b063e4e7",
+    "timestamp": "2023-10-15T10:04:02",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fd05e88fa5214921a",
+    "timestamp": "2023-02-06T10:31:22",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f95af90b24f967150",
+    "timestamp": "2023-06-14T03:30:49",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f25cb95410ea4b925",
+    "timestamp": "2023-10-01T05:13:56",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f8dc9582b4a46e77b",
+    "timestamp": "2023-07-02T03:56:39",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f200b3f993b157e6e",
+    "timestamp": "2023-01-16T03:07:47",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fca1daa787d8dee64",
+    "timestamp": "2023-09-24T06:27:37",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f9e54138122429aea",
+    "timestamp": "2023-03-07T11:09:17",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f0a7b3da9f48e5006",
+    "timestamp": "2023-06-21T03:35:48",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f418f49900c7adbef",
+    "timestamp": "2023-05-08T12:29:44",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fddd8c0da2cce00ba",
+    "timestamp": "2023-08-14T03:09:58",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fb2f0a5b83c529442",
+    "timestamp": "2023-08-11T02:49:14",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5ff3e069d3700d207d",
+    "timestamp": "2023-02-14T01:45:58",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f8df411f5f13404b2",
+    "timestamp": "2023-03-29T10:24:42",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fb443f07dcc99827d",
+    "timestamp": "2023-06-14T09:03:00",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f53fc3fcccced8ab3",
+    "timestamp": "2023-02-01T07:37:27",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fc62400d89d3bd718",
+    "timestamp": "2023-02-06T11:23:30",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fc146f3d1db4a6553",
+    "timestamp": "2023-10-09T07:13:31",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fbed9eb55794aa3a7",
+    "timestamp": "2023-04-08T12:25:08",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fd7633ff2c1a5bea6",
+    "timestamp": "2023-04-27T03:10:55",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fc55d19913077b443",
+    "timestamp": "2023-02-11T01:12:06",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f3a593e601204c697",
+    "timestamp": "2023-04-21T06:00:51",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fad1903a7c2c8ffe1",
+    "timestamp": "2023-08-18T12:19:44",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f7f85955e114f0eaa",
+    "timestamp": "2023-05-01T03:11:04",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f5cba9cf46dad6076",
+    "timestamp": "2023-01-15T05:15:55",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f2ce8e87082ec87fd",
+    "timestamp": "2023-07-03T10:45:19",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f7f26c61909c4f687",
+    "timestamp": "2023-07-19T01:11:13",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f97ded2b6bc8c2ef7",
+    "timestamp": "2023-08-04T12:11:51",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f4fe72a068b87e10e",
+    "timestamp": "2023-04-04T06:23:09",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f56f358c1b0d389f3",
+    "timestamp": "2023-05-14T03:09:11",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f81c632a3d472b9d1",
+    "timestamp": "2023-03-10T09:12:43",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5faab9a245f83e9f2b",
+    "timestamp": "2023-08-25T11:31:48",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f23fd60c0048e58e8",
+    "timestamp": "2023-03-25T12:18:50",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f176b1adfa6a6e6f8",
+    "timestamp": "2023-09-05T11:07:53",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fa6d6be24b2f97573",
+    "timestamp": "2023-04-23T03:13:36",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f017d4ad03bee5aa6",
+    "timestamp": "2023-09-11T06:32:50",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5ffdd9423e4f6cfd91",
+    "timestamp": "2023-07-19T07:48:59",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f980ce9df9e7f0c26",
+    "timestamp": "2023-04-26T04:52:28",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f8b49b22fa97df863",
+    "timestamp": "2023-04-04T02:55:29",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f620963e0916e9d0d",
+    "timestamp": "2023-10-10T12:40:22",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f531e2c4342585feb",
+    "timestamp": "2023-10-20T12:45:21",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5ff9dfc02d80acfd98",
+    "timestamp": "2023-01-19T12:03:12",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f211b9e48ff90f8c1",
+    "timestamp": "2023-01-16T04:03:34",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fc8c73eb8bc70f604",
+    "timestamp": "2023-06-21T09:23:54",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f5c0dd8a01ccea238",
+    "timestamp": "2023-08-23T06:19:52",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f16f9137624104c84",
+    "timestamp": "2023-06-14T04:26:11",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f1498041b5ff2d5f6",
+    "timestamp": "2023-02-07T05:04:29",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f12d00c224101919d",
+    "timestamp": "2023-07-31T09:19:26",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fc2b5d106b43095d9",
+    "timestamp": "2023-05-30T06:11:44",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fdc033894389eb71a",
+    "timestamp": "2023-05-18T08:46:21",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f4e1068b968570562",
+    "timestamp": "2023-09-01T05:19:21",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fc3598065012f2975",
+    "timestamp": "2023-03-08T04:53:56",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f38afaac50234adb9",
+    "timestamp": "2023-03-13T09:22:22",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fe38ba041b8c644f7",
+    "timestamp": "2023-03-16T10:11:57",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f1763bf8b61b74775",
+    "timestamp": "2023-04-16T03:51:57",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f9f3dfd35ca61f620",
+    "timestamp": "2023-07-15T01:21:03",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f54520389a72d6d06",
+    "timestamp": "2023-01-20T12:35:50",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fc0d6a0fc69ae9d77",
+    "timestamp": "2023-08-15T04:31:46",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fb896b2025e120ab7",
+    "timestamp": "2023-07-17T12:14:19",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f3381b704d73f8c90",
+    "timestamp": "2023-07-18T02:17:51",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f6a32b6b777737931",
+    "timestamp": "2023-05-31T11:48:59",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f53a307ab1fc0a134",
+    "timestamp": "2023-08-09T06:19:16",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f26ddb714aaab8100",
+    "timestamp": "2023-10-05T12:55:02",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5ff295b78f73b3d25b",
+    "timestamp": "2023-01-11T02:00:05",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fb71aa25a7f1654c3",
+    "timestamp": "2023-04-15T10:50:00",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f57473006afd3a350",
+    "timestamp": "2023-08-17T10:55:58",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f70e9e499fd3414e2",
+    "timestamp": "2023-02-20T06:36:02",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5ff91c5a5231f871b5",
+    "timestamp": "2023-10-16T09:21:39",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fc11767072c8bce16",
+    "timestamp": "2023-01-04T06:37:25",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fd72f2078c3bdf18a",
+    "timestamp": "2023-02-14T01:56:39",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fa7094adf35cd8473",
+    "timestamp": "2023-02-03T03:57:48",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fc9a73abbf31bc6e4",
+    "timestamp": "2023-05-01T07:19:09",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fd7b75bdd7f349ac8",
+    "timestamp": "2023-03-15T04:19:40",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fb2c827f9eb229444",
+    "timestamp": "2023-07-13T08:25:34",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fd1aef0adcaae21ef",
+    "timestamp": "2023-09-16T07:24:00",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f7d9e32b170cfb90d",
+    "timestamp": "2023-03-11T12:14:35",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f61caa1181447fbdc",
+    "timestamp": "2023-03-14T01:31:39",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fa0bbe932e5882a43",
+    "timestamp": "2023-07-31T07:41:59",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f054c6e62a8af6a74",
+    "timestamp": "2023-06-19T03:51:22",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f8cbf4af10cda570e",
+    "timestamp": "2023-05-25T07:49:12",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f73a819cd864121f3",
+    "timestamp": "2023-06-09T05:55:09",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fdc0a30b94c25a303",
+    "timestamp": "2023-01-25T08:05:32",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f90e35b25e0a3e6de",
+    "timestamp": "2023-10-11T10:39:39",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fda1d2f8e038b325b",
+    "timestamp": "2023-10-14T01:22:38",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f200ac02567555442",
+    "timestamp": "2023-03-24T06:04:57",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f29c92e01a1478376",
+    "timestamp": "2023-06-08T07:47:54",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f3d7bef101baa5774",
+    "timestamp": "2023-03-24T10:01:06",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5ff6c79b2fa5d7cefc",
+    "timestamp": "2023-04-03T12:40:25",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fba845f7d0b09d541",
+    "timestamp": "2023-06-17T12:38:24",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f106d6d6ff1cd982c",
+    "timestamp": "2023-07-23T10:35:28",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f08b5258f1e01fac5",
+    "timestamp": "2023-09-05T11:46:25",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5faf8de88d0e247a2d",
+    "timestamp": "2023-05-18T10:23:53",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f011921dc9a24b18a",
+    "timestamp": "2023-09-25T02:34:35",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f7c1977ab098490f7",
+    "timestamp": "2023-10-24T06:51:48",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f738fce1ce0766230",
+    "timestamp": "2023-04-04T03:11:13",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f1b087e2375c88f2f",
+    "timestamp": "2023-10-02T08:12:55",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fae6fe835aa37eb25",
+    "timestamp": "2023-05-31T02:35:26",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f9dcec0c7ce8a5971",
+    "timestamp": "2023-06-14T05:31:37",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fb059304a4748958f",
+    "timestamp": "2023-02-15T11:02:25",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f9378d4cdb32fd4af",
+    "timestamp": "2023-04-24T03:22:09",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f409e075c2e97dceb",
+    "timestamp": "2023-09-19T04:31:29",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f586486e70e891edb",
+    "timestamp": "2023-02-19T11:12:37",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fdc86a5fe186813f3",
+    "timestamp": "2023-02-01T11:59:06",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f4f9b97e65374a7b6",
+    "timestamp": "2023-03-18T03:29:05",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f0025cd742b579cd1",
+    "timestamp": "2023-10-08T06:38:14",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f0dd4d9cacb9d09b7",
+    "timestamp": "2023-10-05T11:02:50",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f84687b4a8c49c1fb",
+    "timestamp": "2023-06-01T05:07:51",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f85e3b1c855c909e6",
+    "timestamp": "2023-07-21T10:10:53",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fdb8471e7335be847",
+    "timestamp": "2023-08-24T05:55:56",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa49ce335d389f4e3",
+    "timestamp": "2023-03-29T02:45:53",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5ffb12b328a2d52436",
+    "timestamp": "2023-09-25T03:36:27",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fd34a531259bfbb4f",
+    "timestamp": "2023-07-29T10:32:40",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5ff5fbb32520810552",
+    "timestamp": "2023-03-08T01:15:04",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fc24bcf55163dcb12",
+    "timestamp": "2023-01-29T07:41:26",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f281a5d2f1f30fbc0",
+    "timestamp": "2023-01-13T03:01:05",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fae01b15e1a8fcd16",
+    "timestamp": "2023-07-08T06:29:40",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f4acba0050dd223a2",
+    "timestamp": "2023-07-20T08:32:09",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fad7abc4ff9f7ab73",
+    "timestamp": "2023-07-08T04:34:48",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fae25e03dbca8cf32",
+    "timestamp": "2023-04-04T07:42:32",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f06801790504f764e",
+    "timestamp": "2023-05-15T01:57:00",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f4fa7cb3ebeb4a8d3",
+    "timestamp": "2023-03-22T10:53:54",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f421bf5d14e12b577",
+    "timestamp": "2023-01-18T04:16:08",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f8f36114d332c7dfe",
+    "timestamp": "2023-09-16T02:23:02",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5ff20f31974e03e2f1",
+    "timestamp": "2023-07-28T08:21:21",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f77a61fc5162ca55d",
+    "timestamp": "2023-10-08T07:49:10",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5ff2b302a27c263abc",
+    "timestamp": "2023-06-07T12:35:06",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fc7c8106cbc175a4b",
+    "timestamp": "2023-07-24T10:29:41",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fb130af824de49e49",
+    "timestamp": "2023-05-30T07:51:24",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fa5607a60ffd38994",
+    "timestamp": "2023-09-03T07:44:03",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f1057f743780fdb70",
+    "timestamp": "2023-02-08T03:44:26",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5ff6e22a5e1bb8ad61",
+    "timestamp": "2023-03-20T08:41:22",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fd6fb402ba277805f",
+    "timestamp": "2023-08-05T12:02:16",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f3f2b2eb88f9fabe7",
+    "timestamp": "2023-01-18T07:44:05",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f163a5b22947ae3f0",
+    "timestamp": "2023-01-13T04:21:57",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f6b4a650a438e13c6",
+    "timestamp": "2023-08-18T03:31:32",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fcd4cff9498a1d857",
+    "timestamp": "2023-05-29T06:36:26",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f3be2aa9d9b3e5ff6",
+    "timestamp": "2023-05-25T11:35:16",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fd9723e4b86ff1851",
+    "timestamp": "2023-10-12T01:57:31",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fb92fd3592e4adc67",
+    "timestamp": "2023-01-17T04:50:28",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fa625a452e8bc578e",
+    "timestamp": "2023-05-20T02:38:23",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f74f6298a864e3a6f",
+    "timestamp": "2023-09-22T04:44:19",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f9076f575416a832a",
+    "timestamp": "2023-10-01T03:44:46",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fb165d3065f152600",
+    "timestamp": "2023-03-13T02:17:59",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f3d3cf0742e9890cc",
+    "timestamp": "2023-03-12T03:21:05",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f5beb98950806fe51",
+    "timestamp": "2023-03-10T01:51:05",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f32ce2ba3f96b6970",
+    "timestamp": "2023-07-01T01:30:56",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f652983f249deaa94",
+    "timestamp": "2023-04-29T07:13:56",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f9a36e27280598b8a",
+    "timestamp": "2023-06-19T06:37:23",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fb0ba5ec794edcc5a",
+    "timestamp": "2023-06-16T11:32:13",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fa4644d7a690ab3da",
+    "timestamp": "2023-03-26T03:26:36",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fcb5b329a47aa3d92",
+    "timestamp": "2023-08-25T09:56:54",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f6a29a31cee3e6b4a",
+    "timestamp": "2023-04-20T10:22:41",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f8f6967e8e67cd978",
+    "timestamp": "2023-05-23T08:45:34",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f45bca77111e6838c",
+    "timestamp": "2023-02-27T07:07:48",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fc3b4a1dcb6cfcd9a",
+    "timestamp": "2023-04-24T05:54:58",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f9faf92c13322997f",
+    "timestamp": "2023-09-18T09:06:02",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f11bbe0f34f2e0795",
+    "timestamp": "2023-07-27T06:01:13",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f5fb40fbd10f79303",
+    "timestamp": "2023-09-17T02:38:34",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f902220eeea85b5aa",
+    "timestamp": "2023-03-28T05:09:10",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f5ae945c2b239634d",
+    "timestamp": "2023-03-26T10:34:49",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f0531799f6ba290ab",
+    "timestamp": "2023-10-21T11:18:13",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fe89eb5ced2c45025",
+    "timestamp": "2023-06-13T08:06:32",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f975417adc8d7b568",
+    "timestamp": "2023-02-22T03:18:12",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f5625899b7f6eac18",
+    "timestamp": "2023-08-21T08:12:27",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f830784f5dd602cbc",
+    "timestamp": "2023-01-02T04:06:19",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f869b3c0e141a9595",
+    "timestamp": "2023-01-23T07:19:42",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f541b601fda09e3e7",
+    "timestamp": "2023-07-19T10:17:54",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f1a41d630d185defb",
+    "timestamp": "2023-01-16T06:54:15",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fb9a0694e4e2e978a",
+    "timestamp": "2023-05-13T01:54:24",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f4062862dde5dc380",
+    "timestamp": "2023-02-27T04:43:07",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f61412e8eb968cf7c",
+    "timestamp": "2023-03-08T06:09:19",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f3c07ea6839d327c8",
+    "timestamp": "2023-01-03T11:32:36",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f9335b906ba4fa898",
+    "timestamp": "2023-10-17T02:07:56",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f3196d53dd423352e",
+    "timestamp": "2023-09-28T02:00:34",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5faa29430bb66f7ff2",
+    "timestamp": "2023-06-06T03:53:41",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fca863253de21e4bb",
+    "timestamp": "2023-07-03T03:22:56",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f675e7c639cdcc1bc",
+    "timestamp": "2023-10-12T09:59:04",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f72ff51e8a1aeaf0f",
+    "timestamp": "2023-09-22T06:42:48",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f4853b0fddb580013",
+    "timestamp": "2023-01-16T02:19:44",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f041e721268f35460",
+    "timestamp": "2023-05-12T10:37:17",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fc9286b005ba40b55",
+    "timestamp": "2023-02-12T11:41:59",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa796878f5b8ba70f",
+    "timestamp": "2023-03-27T09:23:03",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fbdb7045e06d8199a",
+    "timestamp": "2023-07-05T07:58:44",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f2a1b9d6168a86f4c",
+    "timestamp": "2023-08-09T03:22:38",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f3c2035f39fea16ad",
+    "timestamp": "2023-06-15T07:29:35",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f2646891000225ff9",
+    "timestamp": "2023-08-28T02:50:10",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fc1e9a0331c1607b9",
+    "timestamp": "2023-04-06T04:21:39",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f02ed43e88ce2c8d4",
+    "timestamp": "2023-03-28T09:36:15",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fb40ddc534f97d1ca",
+    "timestamp": "2023-04-17T04:50:45",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f590d603dbc9383a2",
+    "timestamp": "2023-02-15T03:30:49",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fd6d2453543202ebe",
+    "timestamp": "2023-05-16T10:01:36",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f25f20de6e59bd53c",
+    "timestamp": "2023-09-12T11:30:52",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fa29b62dd7e49eb33",
+    "timestamp": "2023-03-05T03:46:30",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f17aef3ed1ff7ab4e",
+    "timestamp": "2023-02-02T08:12:38",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5ff35ca0105c16841f",
+    "timestamp": "2023-09-29T01:55:11",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f680b02be3f2d9289",
+    "timestamp": "2023-10-08T09:41:19",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fa0cba8f6da8560d1",
+    "timestamp": "2023-01-22T04:34:42",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f5f2650c80ea73d1b",
+    "timestamp": "2023-04-10T05:03:18",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5ffeff7319dcc2ef23",
+    "timestamp": "2023-09-12T07:37:48",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fcf48e811920870b7",
+    "timestamp": "2023-08-24T12:38:11",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f8d840d56bba97860",
+    "timestamp": "2023-10-18T06:36:10",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5ffd93780313a66d3a",
+    "timestamp": "2023-09-17T10:58:44",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5ff8546bddd1420df0",
+    "timestamp": "2023-07-01T08:47:44",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f2b05220afb24e08c",
+    "timestamp": "2023-09-29T05:15:24",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fa0531802a669a416",
+    "timestamp": "2023-01-15T10:18:34",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fc4ba56f083a12a35",
+    "timestamp": "2023-07-21T09:07:23",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f10023ac3891c3be1",
+    "timestamp": "2023-08-09T01:33:12",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f30e71486b2c4d335",
+    "timestamp": "2023-02-03T12:20:16",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fc1eed1ff52ad0748",
+    "timestamp": "2023-01-12T10:59:52",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f6ac435fe247d1732",
+    "timestamp": "2023-02-21T05:31:48",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f8a52d3b04712437b",
+    "timestamp": "2023-07-26T04:12:04",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f37111738fa39ea62",
+    "timestamp": "2023-02-12T11:54:34",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f3153bfd718d64cc7",
+    "timestamp": "2023-02-26T08:45:24",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f732c8a834072c5db",
+    "timestamp": "2023-07-30T03:38:39",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f64b93296a1051dcc",
+    "timestamp": "2023-10-01T01:29:52",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fe136dc01050ef31c",
+    "timestamp": "2023-03-21T12:19:42",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f685060d0bf91b98a",
+    "timestamp": "2023-01-08T01:49:21",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5ff8b9bf0f9dc52bcd",
+    "timestamp": "2023-01-02T12:45:53",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fd15ad445e8512669",
+    "timestamp": "2023-01-23T03:10:31",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fdef9142106364c1e",
+    "timestamp": "2023-06-14T12:11:04",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f169aaa54a575b825",
+    "timestamp": "2023-01-08T05:15:27",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f0c5947538294f86e",
+    "timestamp": "2023-05-15T03:36:40",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fb12d5cea04a44c1e",
+    "timestamp": "2023-07-08T04:09:38",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fcfa9efad58178783",
+    "timestamp": "2023-07-16T09:20:08",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fd03b19010a09ea2c",
+    "timestamp": "2023-02-27T07:20:44",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f8922e50e552e63ff",
+    "timestamp": "2023-04-06T06:22:49",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fc5fb50d9939f626e",
+    "timestamp": "2023-05-09T04:05:12",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f11b658f4ed147605",
+    "timestamp": "2023-07-11T08:02:07",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f52f458dd338f242d",
+    "timestamp": "2023-07-12T11:02:32",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f42f9c08dc73815f1",
+    "timestamp": "2023-05-30T04:47:52",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f044234a9c4389654",
+    "timestamp": "2023-05-25T02:20:05",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fe9fb40ee095012d2",
+    "timestamp": "2023-10-20T04:06:41",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f0118fedf7c1f52de",
+    "timestamp": "2023-07-11T11:21:02",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5ff3f9ff62be29c73c",
+    "timestamp": "2023-02-11T08:30:57",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f4d684ca1ffd2681b",
+    "timestamp": "2023-09-12T07:07:45",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5ff57ee2d5d13d98d0",
+    "timestamp": "2023-10-06T06:14:39",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5ffe13321f728e5559",
+    "timestamp": "2023-06-09T07:43:29",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fed878efc3e9f07d0",
+    "timestamp": "2023-08-11T10:12:00",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5fea11b9932d321811",
+    "timestamp": "2023-03-21T09:32:27",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5fd9ffb25811c160bb",
+    "timestamp": "2023-06-25T12:41:12",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f4f541938e3f5ae1c",
+    "timestamp": "2023-05-19T09:13:53",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f29d29c35534559f3",
+    "timestamp": "2023-03-02T10:51:59",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5fab8f43cbda5ff4f8",
+    "timestamp": "2023-09-22T04:00:38",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f63f738ee1d365452",
+    "timestamp": "2023-07-23T05:14:43",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "APPROVED",
+    "objectId": "65382f5f7fdfd9493fb50f63",
+    "timestamp": "2023-04-06T08:09:18",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f9af29186cb8c99dc",
+    "timestamp": "2023-01-13T03:56:39",
+    "origin": "IN_PERSON"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fb18a39095bfca1ae",
+    "timestamp": "2023-07-23T01:45:55",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f485f6a251a6c221c",
+    "timestamp": "2023-01-07T02:13:16",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f4ba0f8f4b1d51206",
+    "timestamp": "2023-06-09T10:36:41",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f34a199a326f0a7e8",
+    "timestamp": "2023-01-09T12:57:15",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f54a28309f246ab2e",
+    "timestamp": "2023-04-08T10:57:11",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f7bd3562a732fa7b9",
+    "timestamp": "2023-02-01T12:45:04",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f9ee4866c43ca44d7",
+    "timestamp": "2023-01-01T01:00:47",
+    "origin": "WEB_PORTAL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "PENDING",
+    "objectId": "65382f5f915d334962c033e0",
+    "timestamp": "2023-05-01T05:10:00",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f8e04821aec01c8c6",
+    "timestamp": "2023-01-03T03:39:08",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5f85a55df239e4e8fb",
+    "timestamp": "2023-05-13T12:04:55",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f3842e7d9112efe2c",
+    "timestamp": "2023-09-25T03:14:26",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "IN_REVIEW",
+    "objectId": "65382f5fc2c18fbb890cb31a",
+    "timestamp": "2023-01-20T02:45:44",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5ff36669069385c876",
+    "timestamp": "2023-01-27T05:39:10",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f6b647f2b55809b4a",
+    "timestamp": "2023-04-23T07:40:40",
+    "origin": "MOBILE_APP"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5f89ba69d037184644",
+    "timestamp": "2023-07-01T11:46:00",
+    "origin": "ATM_MACHINE"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "CANCELLED",
+    "objectId": "65382f5f6a37925ef9c092bd",
+    "timestamp": "2023-09-16T01:25:12",
+    "origin": "PHONE_CALL"
+  },
+  {
+    "objectType": "TRANSACTION",
+    "status": "DECLINED",
+    "objectId": "65382f5fafda6421ccd32e8a",
+    "timestamp": "2023-09-12T09:28:24",
+    "origin": "IN_PERSON"
+  }
+]

@@ -1,9 +1,9 @@
-import {Dimensions, StyleSheet} from 'react-native';
+import {Dimensions, Platform, StyleSheet} from 'react-native';
 import {Colors} from '../../utils/assets/Colors';
 
 export const Style = StyleSheet.create({
   header: {
-    paddingLeft: 10,
+    paddingLeft: Platform.OS === 'android' ? 0 : 10,
     marginTop: 20,
   },
   titleStyle: {
@@ -14,16 +14,21 @@ export const Style = StyleSheet.create({
   listContainer: {
     flexDirection: 'row',
     backgroundColor: Colors.white,
-    height: 80,
     alignItems: 'center',
-    paddingLeft: 20,
+    paddingLeft: Platform.OS === 'android' ? 20 : 20,
+    paddingRight: 20,
+    paddingVertical: 15,
     borderBottomWidth: 0.5,
     borderBottomColor: Colors.secondary,
   },
   descContainer: {
     marginLeft: 15,
+    width: '98%',
   },
-  timeContainer: {flexDirection: 'row', justifyContent: 'space-between'},
+  timeContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
   flatlistStyle: {
     flex: 1,
     flexGrow: 0,

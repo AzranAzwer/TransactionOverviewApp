@@ -45,6 +45,7 @@ export const AppNavigator = () => {
         options={{
           headerTitle: 'Transactions List',
           headerRight: headerRight,
+          headerLeft: () => null,
         }}
       />
       <Stack.Screen

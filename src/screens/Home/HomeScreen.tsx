@@ -38,7 +38,6 @@ const HomeScreen = () => {
   });
 
   const onPress = (data: C_GroupItemType) => {
-    console.log('DATA', data);
     if (data.status === 'CANCELLED' || data.status === 'DECLINED') {
       navigation.navigate('ErrorScreen', data);
     } else if (data.origin === 'ATM_MACHINE' || data.origin === 'IN_PERSON') {

@@ -22,7 +22,7 @@ const C_GroupList = ({list, onPress}: C_GroupListProps) => {
         case 'CANCELLED':
           return <Entypo name="block" size={25} color={Colors.error} />;
         case 'DECLINED':
-          return <Entypo name="check" size={25} color={Colors.primary} />;
+          return <Entypo name="block" size={25} color={Colors.error} />;
         case 'IN_REVIEW':
           return (
             <Entypo name="back-in-time" size={25} color={Colors.primary} />
@@ -47,8 +47,8 @@ const C_GroupList = ({list, onPress}: C_GroupListProps) => {
         {renderIcon(item)}
         <View style={Style.descContainer}>
           <View style={Style.timeContainer}>
-            <Text style={{}}>{`Transaction ${item.status}`}</Text>
-            <Text style={{}}>{moment(item.timestamp).format('hh:mm A')}</Text>
+            <Text style={Style.status}>{`Transaction ${item.status}`}</Text>
+            <Text>{moment(item.timestamp).format('hh:mm A')}</Text>
           </View>
           <Text>{`The transaction ${item.objectId} has been ${item.status} from ${item.origin}`}</Text>
         </View>

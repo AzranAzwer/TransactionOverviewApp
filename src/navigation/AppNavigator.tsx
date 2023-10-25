@@ -46,11 +46,6 @@ export const AppNavigator = () => {
           headerTitle: 'Transactions List',
           headerRight: headerRight,
         }}
-        // options={() => ({
-        //   headerTitle: 'Transactions List',
-        //   headerShadowVisible: false,
-        //   headerRight:
-        // })}
       />
       <Stack.Screen
         name="ErrorScreen"

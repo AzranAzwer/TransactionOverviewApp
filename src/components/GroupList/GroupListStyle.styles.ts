@@ -33,4 +33,9 @@ export const Style = StyleSheet.create({
     paddingHorizontal: 20,
     paddingRight: 25,
   },
+  status: {
+    fontWeight: '700',
+    fontSize: 15,
+    paddingBottom: 5,
+  },
 });
